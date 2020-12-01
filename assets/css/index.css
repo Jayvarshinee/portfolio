@@ -142,6 +142,11 @@ section h5{
 	width: 30%;
 	height: 30%;
 }
+#web{
+	width : 70%;
+	height: 70%;
+	padding-left: 50px;
+}
 .content a{
 	color:#0061FF;
 	font-size: medium;
@@ -212,5 +217,9 @@ footer a:hover{
 	}
 	.content button{
 		width: 50%;
+	}
+	#web{
+		width: 50%;
+		height: 50%;
 	}
 }
